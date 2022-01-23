@@ -41,7 +41,7 @@ Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/rocketseat-education/nlw-06-reactjs
+$ git clone https://github.com/Kaique-Dirceu/letmeask
 $ cd leatmeask
 ```
 
